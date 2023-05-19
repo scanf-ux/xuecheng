@@ -1,10 +1,10 @@
-/*
 package com.xuecheng.content.util;
 
 import com.alibaba.fastjson.JSON;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.context.SecurityContextHolder;
+
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
@@ -44,11 +44,7 @@ public class SecurityUtil {
         private String wxUnionid;
         // 机构ID
         private String companyId;
-        */
-/**
-         * 头像
-         *//*
-
+        //头像
         private String userpic;
 
         private String utype;
@@ -62,11 +58,7 @@ public class SecurityUtil {
         private String cellphone;
 
         private String qq;
-
-        */
-/**
-         * 用户状态
-         *//*
+        //用户状态
 
         private String status;
 
@@ -75,4 +67,3 @@ public class SecurityUtil {
         private LocalDateTime updateTime;
     }
 }
-*/

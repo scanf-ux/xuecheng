@@ -37,7 +37,8 @@ public class CourseBaseInfoController {
     @ApiOperation("课程查询接口")
     @PostMapping("/course/list")
     public PageResult<CourseBase> list(PageParams pageParams, @RequestBody(required = false) QueryCourseParamDto queryCourseParams) {
-        PageResult<CourseBase> pageResult = courseBaseInfoService.queryCourseBaseList(pageParams,queryCourseParams);
+        Long companyId=1234566777L;
+        PageResult<CourseBase> pageResult = courseBaseInfoService.queryCourseBaseList(companyId,pageParams,queryCourseParams);
         return pageResult;
     }
     @ApiOperation("添加课程")
@@ -51,7 +52,7 @@ public class CourseBaseInfoController {
     @ApiOperation("根据课程id查询课程基础信息")
     @RequestMapping(value = "/{courseId}",method = RequestMethod.GET)
     public CourseBaseInfoDto getCourseBaseById(@PathVariable("courseId") Long courseId){
-        CourseBaseInfoDto courseBaseById = courseBaseInfoService.getCourseBaseById(courseId);
+        CourseBaseInfoDto courseBaseById = courseBaseInfoService.getCourseBaseInfo(courseId);
         return courseBaseById;
     }
     @ApiOperation("修改课程")

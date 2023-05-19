@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.xuecheng.base.model.PageParams;
 import com.xuecheng.base.model.PageResult;
 import com.xuecheng.content.mapper.CourseBaseMapper;
-import com.xuecheng.content.model.dto.QueryCourseParamsDto;
+import com.xuecheng.content.model.dto.QueryCourseParamDto;
 import com.xuecheng.content.model.po.CourseBase;
 import com.xuecheng.content.service.CourseBaseInfoService;
 import org.apache.commons.lang.StringUtils;
@@ -25,7 +25,7 @@ public class CourseBaseMapperTests {
     @Test
      void testCourseBaseMapper() {
 
-        QueryCourseParamsDto queryCourseParamsDto = new QueryCourseParamsDto();
+        QueryCourseParamDto queryCourseParamsDto = new QueryCourseParamDto();
         queryCourseParamsDto.setCourseName("测试");
         queryCourseParamsDto.setAuditStatus("202004");
         queryCourseParamsDto.setPublishStatus("203001");
@@ -33,7 +33,8 @@ public class CourseBaseMapperTests {
         PageParams pageParams=new PageParams();
         pageParams.setPageNo(1L);
         pageParams.setPageSize(10L);
-        PageResult<CourseBase> pageResult =courseBaseInfoService.queryCourseBaseList(pageParams,queryCourseParamsDto);
+        long companyId=111111L;
+        PageResult<CourseBase> pageResult =courseBaseInfoService.queryCourseBaseList(companyId,pageParams,queryCourseParamsDto);
         System.out.println(pageResult);
 
     }
