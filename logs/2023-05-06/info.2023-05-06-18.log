@@ -1,0 +1,2 @@
+2023-05-06 19:00:01,443 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-05-06 19:00:01,443 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]

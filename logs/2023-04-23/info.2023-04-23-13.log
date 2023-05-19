@@ -1,0 +1,558 @@
+2023-04-23 13:32:07,828 INFO [main][SpringApplication.java:652] - The following profiles are active: dev
+2023-04-23 13:32:07,828 INFO [main][SpringApplication.java:652] - The following profiles are active: dev
+2023-04-23 13:32:08,330 INFO [main][GenericScope.java:295] - BeanFactory id=4a4299d8-055f-31d1-b144-133eeda1457b
+2023-04-23 13:32:08,330 INFO [main][GenericScope.java:295] - BeanFactory id=4a4299d8-055f-31d1-b144-133eeda1457b
+2023-04-23 13:32:08,363 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,363 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,365 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactiveLoadBalancerConfig' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactiveLoadBalancerConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,365 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactiveLoadBalancerConfig' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactiveLoadBalancerConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,371 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'deferringLoadBalancerExchangeFilterFunction' of type [org.springframework.cloud.client.loadbalancer.reactive.DeferringLoadBalancerExchangeFilterFunction] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,371 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'deferringLoadBalancerExchangeFilterFunction' of type [org.springframework.cloud.client.loadbalancer.reactive.DeferringLoadBalancerExchangeFilterFunction] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-23 13:32:08,382 DEBUG [main][Loggers.java:249] - Using Slf4j logging framework
+2023-04-23 13:32:08,382 DEBUG [main][Loggers.java:249] - Using Slf4j logging framework
+2023-04-23 13:32:08,393 DEBUG [main][InternalLoggerFactory.java:45] - Using SLF4J as the default logging framework
+2023-04-23 13:32:08,393 DEBUG [main][InternalLoggerFactory.java:45] - Using SLF4J as the default logging framework
+2023-04-23 13:32:08,394 DEBUG [main][PlatformDependent.java:1015] - Platform: Windows
+2023-04-23 13:32:08,394 DEBUG [main][PlatformDependent.java:1015] - Platform: Windows
+2023-04-23 13:32:08,397 DEBUG [main][PlatformDependent0.java:408] - -Dio.netty.noUnsafe: false
+2023-04-23 13:32:08,397 DEBUG [main][PlatformDependent0.java:408] - -Dio.netty.noUnsafe: false
+2023-04-23 13:32:08,398 DEBUG [main][PlatformDependent0.java:876] - Java version: 8
+2023-04-23 13:32:08,398 DEBUG [main][PlatformDependent0.java:876] - Java version: 8
+2023-04-23 13:32:08,399 DEBUG [main][PlatformDependent0.java:125] - sun.misc.Unsafe.theUnsafe: available
+2023-04-23 13:32:08,399 DEBUG [main][PlatformDependent0.java:125] - sun.misc.Unsafe.theUnsafe: available
+2023-04-23 13:32:08,400 DEBUG [main][PlatformDependent0.java:149] - sun.misc.Unsafe.copyMemory: available
+2023-04-23 13:32:08,400 DEBUG [main][PlatformDependent0.java:149] - sun.misc.Unsafe.copyMemory: available
+2023-04-23 13:32:08,400 DEBUG [main][PlatformDependent0.java:187] - java.nio.Buffer.address: available
+2023-04-23 13:32:08,400 DEBUG [main][PlatformDependent0.java:187] - java.nio.Buffer.address: available
+2023-04-23 13:32:08,401 DEBUG [main][PlatformDependent0.java:252] - direct buffer constructor: available
+2023-04-23 13:32:08,401 DEBUG [main][PlatformDependent0.java:252] - direct buffer constructor: available
+2023-04-23 13:32:08,401 DEBUG [main][PlatformDependent0.java:326] - java.nio.Bits.unaligned: available, true
+2023-04-23 13:32:08,401 DEBUG [main][PlatformDependent0.java:326] - java.nio.Bits.unaligned: available, true
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent0.java:391] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent0.java:391] - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent0.java:398] - java.nio.DirectByteBuffer.<init>(long, int): available
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent0.java:398] - java.nio.DirectByteBuffer.<init>(long, int): available
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent.java:1058] - sun.misc.Unsafe: available
+2023-04-23 13:32:08,402 DEBUG [main][PlatformDependent.java:1058] - sun.misc.Unsafe: available
+2023-04-23 13:32:08,403 DEBUG [main][PlatformDependent.java:1177] - -Dio.netty.tmpdir: C:\Users\86173\AppData\Local\Temp (java.io.tmpdir)
+2023-04-23 13:32:08,403 DEBUG [main][PlatformDependent.java:1177] - -Dio.netty.tmpdir: C:\Users\86173\AppData\Local\Temp (java.io.tmpdir)
+2023-04-23 13:32:08,403 DEBUG [main][PlatformDependent.java:1256] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-04-23 13:32:08,403 DEBUG [main][PlatformDependent.java:1256] - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2023-04-23 13:32:08,405 DEBUG [main][PlatformDependent.java:177] - -Dio.netty.maxDirectMemory: 4733272064 bytes
+2023-04-23 13:32:08,405 DEBUG [main][PlatformDependent.java:177] - -Dio.netty.maxDirectMemory: 4733272064 bytes
+2023-04-23 13:32:08,406 DEBUG [main][PlatformDependent.java:184] - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-04-23 13:32:08,406 DEBUG [main][PlatformDependent.java:184] - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2023-04-23 13:32:08,407 DEBUG [main][CleanerJava6.java:92] - java.nio.ByteBuffer.cleaner(): available
+2023-04-23 13:32:08,407 DEBUG [main][CleanerJava6.java:92] - java.nio.ByteBuffer.cleaner(): available
+2023-04-23 13:32:08,407 DEBUG [main][PlatformDependent.java:204] - -Dio.netty.noPreferDirect: false
+2023-04-23 13:32:08,407 DEBUG [main][PlatformDependent.java:204] - -Dio.netty.noPreferDirect: false
+2023-04-23 13:32:08,414 DEBUG [main][Loggers.java:254] - [http] resources will use the default LoopResources: DefaultLoopResources {prefix=reactor-http, daemon=true, selectCount=8, workerCount=8}
+2023-04-23 13:32:08,414 DEBUG [main][Loggers.java:254] - [http] resources will use the default LoopResources: DefaultLoopResources {prefix=reactor-http, daemon=true, selectCount=8, workerCount=8}
+2023-04-23 13:32:08,415 DEBUG [main][Loggers.java:254] - [http] resources will use the default ConnectionProvider: reactor.netty.resources.PooledConnectionProvider@2125ad3
+2023-04-23 13:32:08,415 DEBUG [main][Loggers.java:254] - [http] resources will use the default ConnectionProvider: reactor.netty.resources.PooledConnectionProvider@2125ad3
+2023-04-23 13:32:08,488 DEBUG [main][InternalThreadLocalMap.java:56] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-04-23 13:32:08,488 DEBUG [main][InternalThreadLocalMap.java:56] - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2023-04-23 13:32:08,488 DEBUG [main][InternalThreadLocalMap.java:59] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-04-23 13:32:08,488 DEBUG [main][InternalThreadLocalMap.java:59] - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2023-04-23 13:32:08,509 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-23 13:32:08,509 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-23 13:32:08,509 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-23 13:32:08,509 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-23 13:32:08,512 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-23 13:32:08,512 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-23 13:32:08,512 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-23 13:32:08,512 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-23 13:32:08,565 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-23 13:32:08,565 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-23 13:32:08,567 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-23 13:32:08,567 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-23 13:32:08,567 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-23 13:32:08,567 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-23 13:32:08,568 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-23 13:32:08,568 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-23 13:32:08,569 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-23 13:32:08,569 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-23 13:32:08,569 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-23 13:32:08,569 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-23 13:32:08,570 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-23 13:32:08,570 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-23 13:32:08,570 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-23 13:32:08,570 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-23 13:32:08,571 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-23 13:32:08,571 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-23 13:32:08,571 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-23 13:32:08,571 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-23 13:32:08,572 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-23 13:32:08,572 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-23 13:32:08,573 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-23 13:32:08,574 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-23 13:32:08,574 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-23 13:32:08,574 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-23 13:32:08,574 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-23 13:32:09,839 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:09,839 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:11,065 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:11,065 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:11,074 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-23 13:32:11,074 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-23 13:32:11,074 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-23 13:32:11,074 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-23 13:32:11,075 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-23 13:32:11,075 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-23 13:32:11,075 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-23 13:32:11,075 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-23 13:32:11,075 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-23 13:32:11,075 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-23 13:32:11,075 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-23 13:32:11,075 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-23 13:32:11,076 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-23 13:32:11,076 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-23 13:32:11,076 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-23 13:32:11,076 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-23 13:32:11,076 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-23 13:32:11,076 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-23 13:32:11,077 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-23 13:32:11,077 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-23 13:32:11,078 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-23 13:32:11,078 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-23 13:32:11,079 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-23 13:32:11,158 DEBUG [main][NetUtil.java:139] - -Djava.net.preferIPv4Stack: false
+2023-04-23 13:32:11,158 DEBUG [main][NetUtil.java:139] - -Djava.net.preferIPv4Stack: false
+2023-04-23 13:32:11,158 DEBUG [main][NetUtil.java:140] - -Djava.net.preferIPv6Addresses: false
+2023-04-23 13:32:11,158 DEBUG [main][NetUtil.java:140] - -Djava.net.preferIPv6Addresses: false
+2023-04-23 13:32:11,302 DEBUG [main][NetUtil.java:224] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-04-23 13:32:11,302 DEBUG [main][NetUtil.java:224] - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2023-04-23 13:32:11,303 DEBUG [main][NetUtil.java:289] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-04-23 13:32:11,303 DEBUG [main][NetUtil.java:289] - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2023-04-23 13:32:11,459 DEBUG [main][GatewayProperties.java:80] - Routes supplied from Gateway Properties: [RouteDefinition{id='content-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/content/**}}], filters=[], uri=lb://content-api, order=0, metadata={}}, RouteDefinition{id='system-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/system/**}}], filters=[], uri=lb://system-api, order=0, metadata={}}, RouteDefinition{id='media-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/media/**}}], filters=[], uri=lb://media-api, order=0, metadata={}}, RouteDefinition{id='search-service', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/search/**}}], filters=[], uri=lb://search, order=0, metadata={}}, RouteDefinition{id='auth-service', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/auth/**}}], filters=[], uri=lb://auth-service, order=0, metadata={}}, RouteDefinition{id='checkcode', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/checkcode/**}}], filters=[], uri=lb://checkcode, order=0, metadata={}}, RouteDefinition{id='learning-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/learning/**}}], filters=[], uri=lb://learning-api, order=0, metadata={}}, RouteDefinition{id='orders-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/orders/**}}], filters=[], uri=lb://orders-api, order=0, metadata={}}]
+2023-04-23 13:32:11,459 DEBUG [main][GatewayProperties.java:80] - Routes supplied from Gateway Properties: [RouteDefinition{id='content-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/content/**}}], filters=[], uri=lb://content-api, order=0, metadata={}}, RouteDefinition{id='system-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/system/**}}], filters=[], uri=lb://system-api, order=0, metadata={}}, RouteDefinition{id='media-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/media/**}}], filters=[], uri=lb://media-api, order=0, metadata={}}, RouteDefinition{id='search-service', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/search/**}}], filters=[], uri=lb://search, order=0, metadata={}}, RouteDefinition{id='auth-service', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/auth/**}}], filters=[], uri=lb://auth-service, order=0, metadata={}}, RouteDefinition{id='checkcode', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/checkcode/**}}], filters=[], uri=lb://checkcode, order=0, metadata={}}, RouteDefinition{id='learning-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/learning/**}}], filters=[], uri=lb://learning-api, order=0, metadata={}}, RouteDefinition{id='orders-api', predicates=[PredicateDefinition{name='Path', args={_genkey_0=/orders/**}}], filters=[], uri=lb://orders-api, order=0, metadata={}}]
+2023-04-23 13:32:11,565 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [After]
+2023-04-23 13:32:11,565 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [After]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Before]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Before]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Between]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Between]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Cookie]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Cookie]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Header]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Header]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Host]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Host]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Method]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Method]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Path]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Path]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Query]
+2023-04-23 13:32:11,566 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Query]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [ReadBody]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [ReadBody]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [RemoteAddr]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [RemoteAddr]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Weight]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [Weight]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2023-04-23 13:32:11,567 INFO [main][RouteDefinitionRouteLocator.java:139] - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2023-04-23 13:32:11,689 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-04-23 13:32:11,689 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-04-23 13:32:12,926 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:12,926 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:14,180 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:14,180 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:14,264 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-04-23 13:32:14,264 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-04-23 13:32:14,265 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-04-23 13:32:14,265 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-04-23 13:32:14,265 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-04-23 13:32:14,265 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-04-23 13:32:14,268 DEBUG [main][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:14,268 DEBUG [main][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:14,269 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:14,269 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:14,272 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:14,272 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:14,279 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-04-23 13:32:14,279 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-04-23 13:32:14,281 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:14,281 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:14,356 DEBUG [main][Loggers.java:249] - Default KQueue support : false
+2023-04-23 13:32:14,356 DEBUG [main][Loggers.java:249] - Default KQueue support : false
+2023-04-23 13:32:14,366 DEBUG [main][Loggers.java:249] - Default Epoll support : false
+2023-04-23 13:32:14,366 DEBUG [main][Loggers.java:249] - Default Epoll support : false
+2023-04-23 13:32:14,369 DEBUG [main][MultithreadEventLoopGroup.java:44] - -Dio.netty.eventLoopThreads: 16
+2023-04-23 13:32:14,369 DEBUG [main][MultithreadEventLoopGroup.java:44] - -Dio.netty.eventLoopThreads: 16
+2023-04-23 13:32:14,373 DEBUG [main][NioEventLoop.java:106] - -Dio.netty.noKeySetOptimization: false
+2023-04-23 13:32:14,373 DEBUG [main][NioEventLoop.java:106] - -Dio.netty.noKeySetOptimization: false
+2023-04-23 13:32:14,373 DEBUG [main][NioEventLoop.java:107] - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-04-23 13:32:14,373 DEBUG [main][NioEventLoop.java:107] - -Dio.netty.selectorAutoRebuildThreshold: 512
+2023-04-23 13:32:14,375 DEBUG [main][PlatformDependent.java:919] - org.jctools-core.MpscChunkedArrayQueue: available
+2023-04-23 13:32:14,375 DEBUG [main][PlatformDependent.java:919] - org.jctools-core.MpscChunkedArrayQueue: available
+2023-04-23 13:32:14,380 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:14,380 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:14,401 DEBUG [main][ResourceLeakDetector.java:130] - -Dio.netty.leakDetection.level: simple
+2023-04-23 13:32:14,401 DEBUG [main][ResourceLeakDetector.java:130] - -Dio.netty.leakDetection.level: simple
+2023-04-23 13:32:14,402 DEBUG [main][ResourceLeakDetector.java:131] - -Dio.netty.leakDetection.targetRecords: 4
+2023-04-23 13:32:14,402 DEBUG [main][ResourceLeakDetector.java:131] - -Dio.netty.leakDetection.targetRecords: 4
+2023-04-23 13:32:14,409 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:14,409 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:14,410 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:14,410 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:14,411 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:14,411 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:14,411 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:14,411 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:14,413 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:14,413 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:14,414 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:14,414 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:14,414 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:14,414 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:14,415 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:14,415 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:14,416 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:14,416 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:14,416 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:14,416 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:14,418 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:14,418 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:14,418 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:14,418 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:14,419 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:14,419 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:14,420 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:14,420 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:14,422 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:14,422 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:14,431 DEBUG [main][DefaultChannelId.java:79] - -Dio.netty.processId: 21872 (auto-detected)
+2023-04-23 13:32:14,431 DEBUG [main][DefaultChannelId.java:79] - -Dio.netty.processId: 21872 (auto-detected)
+2023-04-23 13:32:14,605 DEBUG [main][DefaultChannelId.java:101] - -Dio.netty.machineId: e4:54:e8:ff:fe:08:39:6c (auto-detected)
+2023-04-23 13:32:14,605 DEBUG [main][DefaultChannelId.java:101] - -Dio.netty.machineId: e4:54:e8:ff:fe:08:39:6c (auto-detected)
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:156] - -Dio.netty.allocator.numHeapArenas: 16
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:156] - -Dio.netty.allocator.numHeapArenas: 16
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:157] - -Dio.netty.allocator.numDirectArenas: 16
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:157] - -Dio.netty.allocator.numDirectArenas: 16
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:159] - -Dio.netty.allocator.pageSize: 8192
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:159] - -Dio.netty.allocator.pageSize: 8192
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:164] - -Dio.netty.allocator.maxOrder: 11
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:164] - -Dio.netty.allocator.maxOrder: 11
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:168] - -Dio.netty.allocator.chunkSize: 16777216
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:168] - -Dio.netty.allocator.chunkSize: 16777216
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:169] - -Dio.netty.allocator.tinyCacheSize: 512
+2023-04-23 13:32:14,627 DEBUG [main][PooledByteBufAllocator.java:169] - -Dio.netty.allocator.tinyCacheSize: 512
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:170] - -Dio.netty.allocator.smallCacheSize: 256
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:170] - -Dio.netty.allocator.smallCacheSize: 256
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:171] - -Dio.netty.allocator.normalCacheSize: 64
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:171] - -Dio.netty.allocator.normalCacheSize: 64
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:172] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:172] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:173] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:173] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:174] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:174] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:175] - -Dio.netty.allocator.useCacheForAllThreads: true
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:175] - -Dio.netty.allocator.useCacheForAllThreads: true
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:176] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-04-23 13:32:14,628 DEBUG [main][PooledByteBufAllocator.java:176] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-04-23 13:32:14,632 DEBUG [main][ByteBufUtil.java:86] - -Dio.netty.allocator.type: pooled
+2023-04-23 13:32:14,632 DEBUG [main][ByteBufUtil.java:86] - -Dio.netty.allocator.type: pooled
+2023-04-23 13:32:14,632 DEBUG [main][ByteBufUtil.java:95] - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-04-23 13:32:14,632 DEBUG [main][ByteBufUtil.java:95] - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-04-23 13:32:14,633 DEBUG [main][ByteBufUtil.java:98] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-04-23 13:32:14,633 DEBUG [main][ByteBufUtil.java:98] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-04-23 13:32:14,652 DEBUG [reactor-http-nio-1][Loggers.java:249] - [id: 0x09b2b607, L:/0:0:0:0:0:0:0:0:63010] Bound new server
+2023-04-23 13:32:14,652 DEBUG [reactor-http-nio-1][Loggers.java:249] - [id: 0x09b2b607, L:/0:0:0:0:0:0:0:0:63010] Bound new server
+2023-04-23 13:32:14,653 INFO [main][NettyWebServer.java:109] - Netty started on port(s): 63010
+2023-04-23 13:32:14,653 INFO [main][NettyWebServer.java:109] - Netty started on port(s): 63010
+2023-04-23 13:32:14,855 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[],\"lastRefTime\":1682227934861,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15011092201564} from /10.103.207.77
+2023-04-23 13:32:14,855 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[],\"lastRefTime\":1682227934861,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15011092201564} from /10.103.207.77
+2023-04-23 13:32:15,349 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:15,349 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:15,900 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:15,900 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:17,117 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:17,117 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-23 13:32:17,121 INFO [main][BeatReactor.java:81] - [BEAT] adding beat: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+2023-04-23 13:32:17,121 INFO [main][BeatReactor.java:81] - [BEAT] adding beat: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+2023-04-23 13:32:17,121 INFO [main][NamingProxy.java:230] - [REGISTER-SERVICE] dev registering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.137.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+2023-04-23 13:32:17,121 INFO [main][NamingProxy.java:230] - [REGISTER-SERVICE] dev registering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.137.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+2023-04-23 13:32:17,122 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/ns/instance?app=unknown&groupName=xuecheng-plus-project&metadata=%7B%22preserved.register.source%22%3A%22SPRING_CLOUD%22%7D&namespaceId=dev&port=63010&enable=true&healthy=true&clusterName=DEFAULT&ip=192.168.137.1&weight=1.0&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2023-04-23 13:32:17,122 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/ns/instance?app=unknown&groupName=xuecheng-plus-project&metadata=%7B%22preserved.register.source%22%3A%22SPRING_CLOUD%22%7D&namespaceId=dev&port=63010&enable=true&healthy=true&clusterName=DEFAULT&ip=192.168.137.1&weight=1.0&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2023-04-23 13:32:17,125 INFO [main][NacosServiceRegistry.java:75] - nacos registry, xuecheng-plus-project gateway 192.168.137.1:63010 register finished
+2023-04-23 13:32:17,125 INFO [main][NacosServiceRegistry.java:75] - nacos registry, xuecheng-plus-project gateway 192.168.137.1:63010 register finished
+2023-04-23 13:32:17,126 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:17,126 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:17,127 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:17,127 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:17,127 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:17,127 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:17,128 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:17,128 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:17,128 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:17,128 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:17,129 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:17,129 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:17,129 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:17,129 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:17,130 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:17,130 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:17,130 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:17,130 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:17,131 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:17,131 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:17,131 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:17,131 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:17,132 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:17,133 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:17,133 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:17,133 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:17,133 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:17,139 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:17,139 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:17,140 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:17,140 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:17,140 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:17,140 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:17,141 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:17,141 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:17,141 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:17,141 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:17,142 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:17,142 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:17,142 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:17,142 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:17,143 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:17,143 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:17,143 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:17,143 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:17,144 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:17,145 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:17,145 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:17,145 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:17,145 DEBUG [main][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:17,146 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:17,146 DEBUG [main][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:17,148 INFO [main][StartupInfoLogger.java:61] - Started GatewayApplication in 12.678 seconds (JVM running for 13.933)
+2023-04-23 13:32:17,148 INFO [main][StartupInfoLogger.java:61] - Started GatewayApplication in 12.678 seconds (JVM running for 13.933)
+2023-04-23 13:32:17,151 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway+xuecheng-plus-project+dev
+2023-04-23 13:32:17,151 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway+xuecheng-plus-project+dev
+2023-04-23 13:32:17,151 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,151 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,152 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway-dev.yaml+xuecheng-plus-project+dev
+2023-04-23 13:32:17,152 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway-dev.yaml+xuecheng-plus-project+dev
+2023-04-23 13:32:17,152 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,152 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,153 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev
+2023-04-23 13:32:17,153 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev
+2023-04-23 13:32:17,153 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-04-23 13:32:17,153 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-04-23 13:32:17,153 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway.yaml+xuecheng-plus-project+dev
+2023-04-23 13:32:17,153 INFO [main][ClientWorker.java:169] - [fixed-192.168.145.100_8848-dev] [subscribe] gateway.yaml+xuecheng-plus-project+dev
+2023-04-23 13:32:17,154 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway.yaml, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,154 INFO [main][CacheData.java:92] - [fixed-192.168.145.100_8848-dev] [add-listener] ok, tenant=dev, dataId=gateway.yaml, group=xuecheng-plus-project, cnt=1
+2023-04-23 13:32:17,162 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:17,162 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:17,162 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:17,162 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:17,170 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:17,170 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:17,171 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:17,171 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:17,353 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:17,353 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:17,368 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:32:17,368 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:32:17,368 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@63ba7dae will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@48eb001a
+2023-04-23 13:32:17,368 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@63ba7dae will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@48eb001a
+2023-04-23 13:32:17,374 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:32:17,374 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:32:17,674 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[{\"instanceId\":\"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway\",\"ip\":\"192.168.137.1\",\"port\":63010,\"weight\":1.0,\"healthy\":true,\"enabled\":true,\"ephemeral\":true,\"clusterName\":\"DEFAULT\",\"serviceName\":\"xuecheng-plus-project@@gateway\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"instanceHeartBeatInterval\":5000,\"instanceHeartBeatTimeOut\":15000,\"ipDeleteTimeout\":30000}],\"lastRefTime\":1682227937681,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15013912142948} from /10.103.207.77
+2023-04-23 13:32:17,674 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[{\"instanceId\":\"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway\",\"ip\":\"192.168.137.1\",\"port\":63010,\"weight\":1.0,\"healthy\":true,\"enabled\":true,\"ephemeral\":true,\"clusterName\":\"DEFAULT\",\"serviceName\":\"xuecheng-plus-project@@gateway\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"instanceHeartBeatInterval\":5000,\"instanceHeartBeatTimeOut\":15000,\"ipDeleteTimeout\":30000}],\"lastRefTime\":1682227937681,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15013912142948} from /10.103.207.77
+2023-04-23 13:32:19,273 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:19,273 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:22,122 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:22,122 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:22,124 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {beat={"port":63010,"ip":"192.168.137.1","weight":1.0,"serviceName":"xuecheng-plus-project@@gateway","cluster":"DEFAULT","metadata":{"preserved.register.source":"SPRING_CLOUD"},"scheduled":false,"period":5000,"stopped":false}}
+2023-04-23 13:32:22,124 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {beat={"port":63010,"ip":"192.168.137.1","weight":1.0,"serviceName":"xuecheng-plus-project@@gateway","cluster":"DEFAULT","metadata":{"preserved.register.source":"SPRING_CLOUD"},"scheduled":false,"period":5000,"stopped":false}}
+2023-04-23 13:32:24,274 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:24,274 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:27,132 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:27,132 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:27,132 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:27,132 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:27,376 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:27,376 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:29,276 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:29,276 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:32,137 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:32,137 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:32,137 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:32,137 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:34,277 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:34,277 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:37,141 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:37,141 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:37,141 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:37,141 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:37,380 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:37,380 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:39,279 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:39,279 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:42,145 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:42,145 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:42,145 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:42,145 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:44,270 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:44,270 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.145.100:8848]
+2023-04-23 13:32:44,281 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:44,281 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:44,436 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:44,436 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2023-04-23 13:32:44,437 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:44,437 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2023-04-23 13:32:44,438 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:44,438 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2023-04-23 13:32:44,439 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:44,439 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2023-04-23 13:32:44,439 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:44,439 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2023-04-23 13:32:44,440 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:44,440 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2023-04-23 13:32:44,440 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:44,440 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2023-04-23 13:32:44,441 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:44,441 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2023-04-23 13:32:44,441 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:44,441 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2023-04-23 13:32:44,442 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:44,442 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2023-04-23 13:32:44,442 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:44,442 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2023-04-23 13:32:44,443 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:44,443 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2023-04-23 13:32:44,444 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:44,444 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2023-04-23 13:32:44,445 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:44,445 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2023-04-23 13:32:44,445 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:44,445 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2023-04-23 13:32:44,446 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:44,446 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2023-04-23 13:32:46,868 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:46,868 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.145.100:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0aa8d36f8c1ac49485e133f43f60481bdev, tenant=dev}
+2023-04-23 13:32:46,869 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:46,869 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.145.100_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@683b1448]
+2023-04-23 13:32:47,148 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:47,148 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:47,148 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:47,148 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:47,384 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:47,384 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:49,282 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:49,282 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:52,151 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:52,151 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:52,151 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:52,151 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:54,284 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:54,284 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:57,154 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:57,154 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:32:57,154 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:57,154 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:32:57,387 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:57,387 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:32:59,285 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:32:59,285 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:33:02,159 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:33:02,159 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.137.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2023-04-23 13:33:02,159 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:33:02,159 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://192.168.145.100:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1, body: {}
+2023-04-23 13:33:04,286 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:33:04,286 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:33:07,010 WARN [Thread-32][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-04-23 13:33:07,010 WARN [Thread-6][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-04-23 13:33:07,010 WARN [Thread-32][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-04-23 13:33:07,010 WARN [Thread-6][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-04-23 13:33:07,010 WARN [Thread-32][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-04-23 13:33:07,010 WARN [Thread-32][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-04-23 13:33:07,010 WARN [Thread-6][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-04-23 13:33:07,010 WARN [Thread-6][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-04-23 13:33:07,017 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-04-23 13:33:07,017 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-04-23 13:33:07,019 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2023-04-23 13:33:07,019 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2023-04-23 13:33:07,019 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@gateway:192.168.137.1:63010 from beat map.
+2023-04-23 13:33:07,019 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@gateway:192.168.137.1:63010 from beat map.
+2023-04-23 13:33:07,020 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.137.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2023-04-23 13:33:07,020 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.137.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2023-04-23 13:33:07,020 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://192.168.145.100:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2023-04-23 13:33:07,020 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://192.168.145.100:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.137.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2023-04-23 13:33:07,026 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2023-04-23 13:33:07,026 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2023-04-23 13:33:07,026 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-04-23 13:33:07,026 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-04-23 13:33:07,162 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-04-23 13:33:07,162 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-04-23 13:33:07,162 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-04-23 13:33:07,162 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-04-23 13:33:07,392 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:33:07,392 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.145.100:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=10.103.207.77&serviceName=xuecheng-plus-project%40%40gateway&udpPort=59103&clusters=DEFAULT, body: {}
+2023-04-23 13:33:07,400 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-04-23 13:33:07,400 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-04-23 13:33:07,552 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[],\"lastRefTime\":1682227987558,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15063789720142} from /10.103.207.77
+2023-04-23 13:33:07,552 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"name\":\"xuecheng-plus-project@@gateway\",\"clusters\":\"DEFAULT\",\"cacheMillis\":10000,\"hosts\":[],\"lastRefTime\":1682227987558,\"checksum\":\"\",\"allIPs\":false,\"reachProtectionThreshold\":false,\"valid\":true}","lastRefTime":15063789720142} from /10.103.207.77
+2023-04-23 13:33:07,552 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:33:07,552 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.137.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.137.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-04-23 13:33:07,552 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@5a132027 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@48eb001a
+2023-04-23 13:33:07,552 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@5a132027 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@48eb001a
+2023-04-23 13:33:07,553 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@gateway@@DEFAULT -> []
+2023-04-23 13:33:07,553 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@gateway@@DEFAULT -> []
+2023-04-23 13:33:09,287 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:33:09,287 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-04-23 13:33:10,403 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-04-23 13:33:10,404 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-04-23 13:33:10,404 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-04-23 13:33:10,404 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-04-23 13:33:10,404 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-04-23 13:33:10,404 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-04-23 13:33:10,405 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-04-23 13:33:10,405 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-04-23 13:33:10,406 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2023-04-23 13:33:10,406 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException

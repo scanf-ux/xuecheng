@@ -1,0 +1,622 @@
+2023-04-11 13:40:52,084 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h50m27s524ms333µs400ns).
+2023-04-11 13:40:52,084 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h50m27s524ms333µs400ns).
+2023-04-11 13:50:27,677 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:50:27,677 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:50:27,678 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,678 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f108aa1: (connection has passed maxLifetime)
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f108aa1: (connection has passed maxLifetime)
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,680 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,681 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,681 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,681 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,681 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,682 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,682 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,683 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,683 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,684 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,684 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,684 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,684 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2023-04-11 13:50:27,690 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@345c00ef
+2023-04-11 13:50:27,690 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@345c00ef
+2023-04-11 13:50:27,696 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@293c4a4f: (connection has passed maxLifetime)
+2023-04-11 13:50:27,696 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@293c4a4f: (connection has passed maxLifetime)
+2023-04-11 13:50:27,697 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,697 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,697 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ce8f6da: (connection has passed maxLifetime)
+2023-04-11 13:50:27,697 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ce8f6da: (connection has passed maxLifetime)
+2023-04-11 13:50:27,698 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,698 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,699 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11c88cca: (connection has passed maxLifetime)
+2023-04-11 13:50:27,699 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11c88cca: (connection has passed maxLifetime)
+2023-04-11 13:50:27,699 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,699 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,700 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7a900899: (connection has passed maxLifetime)
+2023-04-11 13:50:27,700 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7a900899: (connection has passed maxLifetime)
+2023-04-11 13:50:27,701 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,701 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@391cd8cd: (connection has passed maxLifetime)
+2023-04-11 13:50:27,701 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,701 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@391cd8cd: (connection has passed maxLifetime)
+2023-04-11 13:50:27,702 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,702 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,702 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b16280c: (connection has passed maxLifetime)
+2023-04-11 13:50:27,702 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b16280c: (connection has passed maxLifetime)
+2023-04-11 13:50:27,703 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,703 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a7582cf: (connection has passed maxLifetime)
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a7582cf: (connection has passed maxLifetime)
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6689dbb4: (connection has passed maxLifetime)
+2023-04-11 13:50:27,704 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6689dbb4: (connection has passed maxLifetime)
+2023-04-11 13:50:27,705 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,705 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,705 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4c3dfd5: (connection has passed maxLifetime)
+2023-04-11 13:50:27,705 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4c3dfd5: (connection has passed maxLifetime)
+2023-04-11 13:50:27,706 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,706 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-04-11 13:50:27,707 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fcdc28
+2023-04-11 13:50:27,707 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fcdc28
+2023-04-11 13:50:27,713 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d03ab46
+2023-04-11 13:50:27,713 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d03ab46
+2023-04-11 13:50:27,718 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72629e47
+2023-04-11 13:50:27,718 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72629e47
+2023-04-11 13:50:27,723 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72ef6fd5
+2023-04-11 13:50:27,723 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72ef6fd5
+2023-04-11 13:50:27,728 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e450417
+2023-04-11 13:50:27,728 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e450417
+2023-04-11 13:50:27,734 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e5e9990
+2023-04-11 13:50:27,734 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e5e9990
+2023-04-11 13:50:27,738 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@531be1e8
+2023-04-11 13:50:27,738 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@531be1e8
+2023-04-11 13:50:27,739 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:50:27,739 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:50:27,739 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=8, active=0, idle=8, waiting=0)
+2023-04-11 13:50:27,739 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=8, active=0, idle=8, waiting=0)
+2023-04-11 13:50:27,741 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@345c00ef: (connection evicted)
+2023-04-11 13:50:27,741 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@345c00ef: (connection evicted)
+2023-04-11 13:50:27,743 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fcdc28: (connection evicted)
+2023-04-11 13:50:27,743 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fcdc28: (connection evicted)
+2023-04-11 13:50:27,744 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34e515b5
+2023-04-11 13:50:27,745 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7d03ab46: (connection evicted)
+2023-04-11 13:50:27,744 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34e515b5
+2023-04-11 13:50:27,745 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7d03ab46: (connection evicted)
+2023-04-11 13:50:27,747 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@72629e47: (connection evicted)
+2023-04-11 13:50:27,747 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@72629e47: (connection evicted)
+2023-04-11 13:50:27,748 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@72ef6fd5: (connection evicted)
+2023-04-11 13:50:27,748 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@72ef6fd5: (connection evicted)
+2023-04-11 13:50:27,750 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e450417: (connection evicted)
+2023-04-11 13:50:27,750 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e450417: (connection evicted)
+2023-04-11 13:50:27,751 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e5e9990: (connection evicted)
+2023-04-11 13:50:27,751 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e5e9990: (connection evicted)
+2023-04-11 13:50:27,752 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@531be1e8: (connection evicted)
+2023-04-11 13:50:27,752 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@531be1e8: (connection evicted)
+2023-04-11 13:50:27,753 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34e515b5: (connection evicted)
+2023-04-11 13:50:27,753 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34e515b5: (connection evicted)
+2023-04-11 13:50:27,756 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:50:27,756 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:50:27,756 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:50:27,756 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:54:59,636 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:54:59,636 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:54:59,642 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:54:59,642 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:54:59,655 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:54:59,655 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:54:59,658 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:54:59,658 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:54:59,659 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:54:59,659 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:54:59,660 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:54:59,660 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:54:59,671 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:54:59,671 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:54:59,717 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:54:59,717 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:54:59,948 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:54:59,948 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:54:59,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:55:01,754 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:55:01,754 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:55:02,422 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:55:02,422 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:55:02,507 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:55:02,507 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:55:02,854 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:55:02,854 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:55:03,431 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:55:03,431 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:55:03,433 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:55:03,433 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:55:03,982 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:55:03,982 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:55:03,982 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:55:03,982 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:55:03,996 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:55:03,996 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:55:03,996 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:55:03,996 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:55:04,071 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:55:04,071 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:55:04,087 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:55:04,087 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:55:04,088 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:55:04,088 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:55:04,089 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:55:04,089 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:55:04,090 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:55:04,090 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:55:04,091 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:55:04,091 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:55:04,092 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:55:04,092 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:55:04,093 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:55:04,093 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:55:04,094 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:55:04,094 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:55:04,096 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:55:04,096 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:55:04,100 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:55:04,100 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:55:04,101 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:55:04,102 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:55:04,102 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:55:04,102 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:55:04,102 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:55:04,303 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-04-11 13:55:04,303 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-04-11 13:55:06,034 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 13:55:06,034 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 13:55:06,842 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 8.885 seconds (JVM running for 11.044)
+2023-04-11 13:55:06,842 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 8.885 seconds (JVM running for 11.044)
+2023-04-11 13:55:07,124 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 13:55:07,124 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 13:55:07,126 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 13:55:07,126 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 13:55:07,127 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 13:55:07,127 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 13:55:07,127 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 13:55:07,127 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 13:55:07,128 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 13:55:07,129 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 13:55:07,129 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 13:55:07,129 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 13:55:07,129 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 13:55:07,130 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 13:55:07,131 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 13:55:07,132 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 13:55:07,133 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 13:55:07,134 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 13:55:07,135 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 13:55:07,136 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 13:55:07,137 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 13:55:07,137 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 13:55:07,346 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 13:55:07,346 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 13:55:07,351 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 13:55:07,351 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 13:55:07,359 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 13:55:07,359 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 13:55:07,407 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 13:55:07,407 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 13:55:07,451 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 13:55:07,451 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 13:55:07,456 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58e904cf
+2023-04-11 13:55:07,456 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58e904cf
+2023-04-11 13:55:07,460 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 13:55:07,461 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@19d40ef4
+2023-04-11 13:55:07,460 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 13:55:07,461 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@19d40ef4
+2023-04-11 13:55:07,464 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2807342c
+2023-04-11 13:55:07,464 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2807342c
+2023-04-11 13:55:07,468 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79fbf1bb
+2023-04-11 13:55:07,468 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79fbf1bb
+2023-04-11 13:55:07,472 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14ece0f3
+2023-04-11 13:55:07,472 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14ece0f3
+2023-04-11 13:55:07,475 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7db5ece1
+2023-04-11 13:55:07,475 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7db5ece1
+2023-04-11 13:55:07,480 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25e953c2
+2023-04-11 13:55:07,480 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25e953c2
+2023-04-11 13:55:07,484 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46a195f1
+2023-04-11 13:55:07,484 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46a195f1
+2023-04-11 13:55:07,489 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fe2002d
+2023-04-11 13:55:07,489 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fe2002d
+2023-04-11 13:55:07,489 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:55:07,489 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:55:07,504 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:55:07,504 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:55:07,505 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:55:07,505 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:55:07,506 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 13:55:07,506 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 13:55:07,511 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@58e904cf: (connection evicted)
+2023-04-11 13:55:07,511 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@58e904cf: (connection evicted)
+2023-04-11 13:55:07,512 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@19d40ef4: (connection evicted)
+2023-04-11 13:55:07,512 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@19d40ef4: (connection evicted)
+2023-04-11 13:55:07,513 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2807342c: (connection evicted)
+2023-04-11 13:55:07,513 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2807342c: (connection evicted)
+2023-04-11 13:55:07,514 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@79fbf1bb: (connection evicted)
+2023-04-11 13:55:07,514 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@79fbf1bb: (connection evicted)
+2023-04-11 13:55:07,514 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14ece0f3: (connection evicted)
+2023-04-11 13:55:07,514 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14ece0f3: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7db5ece1: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7db5ece1: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@25e953c2: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@25e953c2: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@46a195f1: (connection evicted)
+2023-04-11 13:55:07,515 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@46a195f1: (connection evicted)
+2023-04-11 13:55:07,516 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2fe2002d: (connection evicted)
+2023-04-11 13:55:07,516 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2fe2002d: (connection evicted)
+2023-04-11 13:55:07,517 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:55:07,517 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:55:07,518 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:55:07,518 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:59:10,158 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:59:10,158 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:59:10,162 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:59:10,162 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:59:10,181 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:10,181 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:10,185 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:10,185 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:10,187 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:10,187 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:10,188 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:10,188 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:10,196 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:10,196 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:10,267 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:10,267 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:10,606 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:10,606 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:10,617 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:10,617 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:10,617 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:10,617 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:10,618 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:12,615 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:59:12,615 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:59:13,442 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:59:13,442 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:59:13,542 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:59:13,542 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:59:13,938 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:59:13,938 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:59:14,586 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:59:14,586 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:59:14,589 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:59:14,589 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:59:15,260 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:15,260 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:15,261 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:15,261 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:15,274 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:15,274 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:15,274 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:15,274 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:15,377 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:15,377 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:15,407 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:59:15,407 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:59:15,409 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:59:15,409 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:59:15,410 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:59:15,410 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:59:15,412 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:15,412 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:15,412 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:59:15,412 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:59:15,415 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:15,415 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:15,417 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:15,417 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:15,419 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:15,419 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:15,423 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:15,423 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:15,425 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:15,425 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:15,426 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:15,426 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:15,426 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:15,426 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:15,427 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:15,738 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-04-11 13:59:15,738 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-04-11 13:59:17,615 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 13:59:17,615 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 13:59:18,492 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 10.037 seconds (JVM running for 12.418)
+2023-04-11 13:59:18,492 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 10.037 seconds (JVM running for 12.418)
+2023-04-11 13:59:18,803 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 13:59:18,803 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 13:59:18,805 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 13:59:18,805 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 13:59:18,806 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 13:59:18,807 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 13:59:18,807 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 13:59:18,807 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 13:59:18,807 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 13:59:18,808 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 13:59:18,808 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 13:59:18,808 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 13:59:18,808 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 13:59:18,809 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 13:59:18,809 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 13:59:18,809 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 13:59:18,809 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 13:59:18,810 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 13:59:18,811 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 13:59:18,811 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 13:59:18,812 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 13:59:18,812 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 13:59:18,814 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 13:59:18,814 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 13:59:18,817 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 13:59:18,817 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 13:59:18,818 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 13:59:18,818 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 13:59:18,819 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 13:59:18,819 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 13:59:18,819 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 13:59:18,819 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 13:59:18,820 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 13:59:18,820 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 13:59:18,821 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 13:59:18,821 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 13:59:18,821 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 13:59:18,821 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 13:59:18,822 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 13:59:18,822 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 13:59:18,822 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 13:59:18,822 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 13:59:18,823 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 13:59:18,823 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 13:59:18,824 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 13:59:18,825 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 13:59:18,825 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 13:59:18,825 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 13:59:18,825 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 13:59:18,826 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 13:59:18,826 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 13:59:18,826 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 13:59:18,826 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 13:59:18,827 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 13:59:18,827 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 13:59:18,827 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 13:59:18,827 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 13:59:19,169 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 13:59:19,169 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 13:59:19,171 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 13:59:19,171 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 13:59:19,179 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 13:59:19,179 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 13:59:19,212 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 13:59:19,212 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 13:59:19,270 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 13:59:19,270 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 13:59:19,274 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 13:59:19,274 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 13:59:19,285 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d89a9f9
+2023-04-11 13:59:19,285 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d89a9f9
+2023-04-11 13:59:19,290 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7cb4a3c2
+2023-04-11 13:59:19,290 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7cb4a3c2
+2023-04-11 13:59:19,294 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d029cdb
+2023-04-11 13:59:19,294 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d029cdb
+2023-04-11 13:59:19,298 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c9b5c8d
+2023-04-11 13:59:19,298 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c9b5c8d
+2023-04-11 13:59:19,303 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5969a87a
+2023-04-11 13:59:19,303 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5969a87a
+2023-04-11 13:59:19,307 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18d524b7
+2023-04-11 13:59:19,307 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18d524b7
+2023-04-11 13:59:19,312 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11af3298
+2023-04-11 13:59:19,312 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11af3298
+2023-04-11 13:59:19,320 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a275f6d
+2023-04-11 13:59:19,320 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a275f6d
+2023-04-11 13:59:19,324 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e4dbfdd
+2023-04-11 13:59:19,325 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:59:19,324 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e4dbfdd
+2023-04-11 13:59:19,325 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:59:19,333 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:59:19,333 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 13:59:19,334 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:59:19,334 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 13:59:19,335 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 13:59:19,335 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 13:59:19,341 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d89a9f9: (connection evicted)
+2023-04-11 13:59:19,341 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d89a9f9: (connection evicted)
+2023-04-11 13:59:19,341 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7cb4a3c2: (connection evicted)
+2023-04-11 13:59:19,341 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7cb4a3c2: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4d029cdb: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4d029cdb: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1c9b5c8d: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1c9b5c8d: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5969a87a: (connection evicted)
+2023-04-11 13:59:19,342 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5969a87a: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@18d524b7: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@18d524b7: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11af3298: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11af3298: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a275f6d: (connection evicted)
+2023-04-11 13:59:19,343 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a275f6d: (connection evicted)
+2023-04-11 13:59:19,344 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e4dbfdd: (connection evicted)
+2023-04-11 13:59:19,344 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e4dbfdd: (connection evicted)
+2023-04-11 13:59:19,344 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:59:19,344 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 13:59:19,344 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:59:19,344 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 13:59:53,612 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:59:53,612 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-04-11 13:59:53,619 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:59:53,619 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-04-11 13:59:53,636 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:53,636 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:53,638 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:53,638 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:53,639 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:53,639 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:53,640 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:53,640 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:53,648 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:53,648 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:53,695 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:53,695 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:53,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:53,959 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:53,972 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:53,973 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:53,973 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:53,973 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:53,973 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:55,934 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:59:55,934 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-04-11 13:59:56,648 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:59:56,648 DEBUG [main][LogFactory.java:109] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-04-11 13:59:56,743 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:59:56,743 INFO [main][GenericScope.java:295] - BeanFactory id=14e3cc2b-ed10-3d05-bc8f-b68bfdb6b04e
+2023-04-11 13:59:57,071 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:59:57,071 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-04-11 13:59:57,625 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:59:57,625 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@4674d90'
+2023-04-11 13:59:57,628 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:59:57,628 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-04-11 13:59:58,184 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:58,184 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:58,185 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:58,185 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:58,195 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:58,195 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-04-11 13:59:58,196 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:58,196 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-04-11 13:59:58,271 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:58,271 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-04-11 13:59:58,285 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:59:58,285 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-04-11 13:59:58,286 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:59:58,286 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-04-11 13:59:58,287 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:59:58,287 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-04-11 13:59:58,291 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:58,291 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-04-11 13:59:58,291 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:59:58,291 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-04-11 13:59:58,293 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:58,293 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-04-11 13:59:58,294 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:58,294 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-04-11 13:59:58,295 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:58,295 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-04-11 13:59:58,299 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:58,299 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-04-11 13:59:58,304 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:58,304 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-04-11 13:59:58,305 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:58,305 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:58,306 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-04-11 13:59:58,307 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:58,307 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-04-11 13:59:58,541 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-04-11 13:59:58,541 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)

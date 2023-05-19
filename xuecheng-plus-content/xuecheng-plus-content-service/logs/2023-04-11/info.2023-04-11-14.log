@@ -1,0 +1,136 @@
+2023-04-11 14:00:00,255 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 14:00:00,255 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-04-11 14:00:01,523 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 9.716 seconds (JVM running for 11.799)
+2023-04-11 14:00:01,523 INFO [main][StartupInfoLogger.java:61] - Started CourseCategoryServiceTests in 9.716 seconds (JVM running for 11.799)
+2023-04-11 14:00:01,853 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 14:00:01,853 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-04-11 14:00:01,855 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 14:00:01,855 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-04-11 14:00:01,856 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 14:00:01,856 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2023-04-11 14:00:01,856 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 14:00:01,856 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 14:00:01,857 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2023-04-11 14:00:01,858 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 14:00:01,858 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-04-11 14:00:01,858 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 14:00:01,858 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-04-11 14:00:01,859 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 14:00:01,859 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-04-11 14:00:01,859 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 14:00:01,859 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 14:00:01,860 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-04-11 14:00:01,861 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 14:00:01,861 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-04-11 14:00:01,861 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 14:00:01,861 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-04-11 14:00:01,862 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 14:00:01,863 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 14:00:01,864 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 14:00:01,865 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 14:00:01,862 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://127.0.0.1:3306/xc_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-04-11 14:00:01,863 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-04-11 14:00:01,864 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-04-11 14:00:01,865 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-04-11 14:00:01,866 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 14:00:01,867 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 14:00:01,867 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 14:00:01,866 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2023-04-11 14:00:01,868 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 14:00:01,867 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-04-11 14:00:01,867 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2023-04-11 14:00:01,868 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2023-04-11 14:00:01,869 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 14:00:01,869 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-04-11 14:00:01,869 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 14:00:01,869 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2023-04-11 14:00:01,870 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 14:00:01,870 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2023-04-11 14:00:01,870 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 14:00:01,870 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 14:00:01,871 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2023-04-11 14:00:01,872 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 14:00:01,872 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2023-04-11 14:00:01,872 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 14:00:01,872 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2023-04-11 14:00:01,873 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 14:00:01,873 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-04-11 14:00:02,162 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 14:00:02,162 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c43966
+2023-04-11 14:00:02,195 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 14:00:02,195 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-04-11 14:00:02,206 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 14:00:02,206 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as ( select * from course_category p where id= ? union all select t.* from course_category t inner join t1 on t1.id = t.parentid ) select * from t1 order by t1.id, t1.orderby
+2023-04-11 14:00:02,239 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 14:00:02,239 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-04-11 14:00:02,303 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 14:00:02,303 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-04-11 14:00:02,312 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b20a31c
+2023-04-11 14:00:02,312 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b20a31c
+2023-04-11 14:00:02,313 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 14:00:02,313 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-04-11 14:00:02,318 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a1da927
+2023-04-11 14:00:02,318 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a1da927
+2023-04-11 14:00:02,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b9d0193
+2023-04-11 14:00:02,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b9d0193
+2023-04-11 14:00:02,332 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a325668
+2023-04-11 14:00:02,332 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a325668
+2023-04-11 14:00:02,337 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17966ff3
+2023-04-11 14:00:02,337 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17966ff3
+2023-04-11 14:00:02,341 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e7c08e3
+2023-04-11 14:00:02,341 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e7c08e3
+2023-04-11 14:00:02,348 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17ac8d85
+2023-04-11 14:00:02,348 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17ac8d85
+2023-04-11 14:00:02,356 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@706f6d8d
+2023-04-11 14:00:02,356 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@706f6d8d
+2023-04-11 14:00:02,361 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6692bd44
+2023-04-11 14:00:02,361 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 14:00:02,361 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6692bd44
+2023-04-11 14:00:02,361 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 14:00:02,378 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 14:00:02,378 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-04-11 14:00:02,378 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 14:00:02,378 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-04-11 14:00:02,384 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 14:00:02,384 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8c43966: (connection evicted)
+2023-04-11 14:00:02,390 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b20a31c: (connection evicted)
+2023-04-11 14:00:02,390 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b20a31c: (connection evicted)
+2023-04-11 14:00:02,390 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4a1da927: (connection evicted)
+2023-04-11 14:00:02,390 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4a1da927: (connection evicted)
+2023-04-11 14:00:02,391 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b9d0193: (connection evicted)
+2023-04-11 14:00:02,391 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b9d0193: (connection evicted)
+2023-04-11 14:00:02,391 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a325668: (connection evicted)
+2023-04-11 14:00:02,391 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a325668: (connection evicted)
+2023-04-11 14:00:02,392 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@17966ff3: (connection evicted)
+2023-04-11 14:00:02,392 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@17966ff3: (connection evicted)
+2023-04-11 14:00:02,394 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e7c08e3: (connection evicted)
+2023-04-11 14:00:02,394 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e7c08e3: (connection evicted)
+2023-04-11 14:00:02,394 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@17ac8d85: (connection evicted)
+2023-04-11 14:00:02,394 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@17ac8d85: (connection evicted)
+2023-04-11 14:00:02,395 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@706f6d8d: (connection evicted)
+2023-04-11 14:00:02,395 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@706f6d8d: (connection evicted)
+2023-04-11 14:00:02,395 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6692bd44: (connection evicted)
+2023-04-11 14:00:02,395 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6692bd44: (connection evicted)
+2023-04-11 14:00:02,397 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 14:00:02,397 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-04-11 14:00:02,397 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-04-11 14:00:02,397 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
